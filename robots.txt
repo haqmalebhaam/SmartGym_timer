@@ -2,3 +2,5 @@ User-agent: *
 Disallow:
 
 Sitemap: https://haqmalebhaam.github.io/SmartGym_timer/sitemap.xml
+
+# Updated 2025-10-25
