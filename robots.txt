@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://haqmalebhaam.github.io/SmartGym_timer/sitemap.xml
